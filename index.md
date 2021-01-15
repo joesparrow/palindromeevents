@@ -1,3 +1,6 @@
+# Palindrome Day Events
+Celebrating Palindrome Day by being active.
+
 ## 12th of February 2021 is Palindrome Day!
 Well, I think I might have invented that and it doesn't exist, so what am I talking about?
 
