@@ -1,3 +1,5 @@
+# What's this event then?
+
 Be active on Palindrome Day this year and earn a unique Palindrome-themed medal!
 
 ## 12th of February 2021 is Palindrome Day!
@@ -17,9 +19,9 @@ To celebrate this monumentous occurrence we are holding a virtual Palindrome Day
 
 Well, we love palindromes.
 
-The other reason is that we believe exercise is good for our mental wellbeing, and this last year or so as been pretty rubbish for people all over the world everywhere. It has often been difficult or impossible to exercise, so just when we need it, we can't do it. Once we get out of an exercise routine it is often hard to get back on it. Motivation has been in short supply for lots of people.
+The other reason is that we believe exercise is good for our mental wellbeing, and this last year or so has been pretty rubbish for people all over the world everywhere. It has often been difficult or impossible to exercise, so just when we need it, we can't do it. Once we get out of an exercise routine it is often hard to get back on it. Motivation has been in short supply for lots of people.
 
-So, this event is a celebration of a palindrome date, or it is a thinly veield excuse to do some exercise to earn a medal.
+So, this event is a celebration of a palindrome date, or it is a thinly veiled excuse to do some exercise to earn a medal.
 
 ## How do I take part?
 
