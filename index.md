@@ -45,7 +45,7 @@ You get extra kudos if the distance is a palindrome, for example 5,005m!
 
 Oh, it's beautiful. Exclusively designed by me and I am high unqualified to design anything.
 
-![A picture of the medal](../medal.JPG)
+![A picture of the medal](medal.JPG)
 
 Each one is hand made. Seriously! I will be 3D printing them and then hand sewing the ribbon on.
 
