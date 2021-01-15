@@ -70,8 +70,8 @@ Well, to be honest there's only me. Perhaps lockdown has sent me a little strang
 
 ## Where can I get more information?
 
-Good question.
+Good question. Email address to follow.
 
-## Is this the worst website on the internet?
+## Is this the worst website on the internet?
 
 Probably.
