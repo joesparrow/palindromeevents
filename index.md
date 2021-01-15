@@ -1,9 +1,13 @@
+Be active on Palindrome Day this year and earn a unique Palindrome-themed medal!
+
 ## 12th of February 2021 is Palindrome Day!
 Well, I think I might have invented that and it doesn't exist, so what am I talking about?
 
-A palindrome is a series of numbers of letters that reads the same from right to left as it does from left to right, e.g. racecar.
+A palindrome is a series of numbers or letters that reads the same from right to left as it does from left to right, e.g. racecar.
 
-Palindrome dates in the UK are pretty rare because of the date format we use. In fact until recently the last palindrome date we had was on the 11th of November in the year 1111! Last year a cool thing happened, on the 2nd of Feb we had our first palindrome date in over 900 years - 02.02.2020.
+Palindrome dates in the UK are pretty rare because of the date format we use. In fact until recently the last palindrome date we had was on the 11th of November in the year 1111!
+
+Last year a cool thing happened, on the 2nd of Feb we had our first palindrome date in over 900 years - 02.02.2020.
 
 This year we have a second palindrome date: 12.02.2021.
 
@@ -13,7 +17,7 @@ To celebrate this monumentous occurrence we are holding a virtual Palindrome Day
 
 Well, we love palindromes.
 
-The other reason is that we believe exercise is good for our mental wellbeing, and this last year or so as been pretty rubbish for people all over the world everywhere. It has often been difficult or impossible to exercise, so just when we need it, we can't do it. Once we get out of an exercise routine it is hard to get back on it. Motivation has been in short supply for lots of people.
+The other reason is that we believe exercise is good for our mental wellbeing, and this last year or so as been pretty rubbish for people all over the world everywhere. It has often been difficult or impossible to exercise, so just when we need it, we can't do it. Once we get out of an exercise routine it is often hard to get back on it. Motivation has been in short supply for lots of people.
 
 So, this event is a celebration of a palindrome date, or it is a thinly veield excuse to do some exercise to earn a medal.
 
@@ -21,23 +25,17 @@ So, this event is a celebration of a palindrome date, or it is a thinly veield e
 
 Easy, on February 12th 2021, log some exercise in a way that can be evidenced.
 
-You can:
+You can run, cycle, walk, row, do the samba, whatever, as long as it's in a a COVID-safe way.
 
-- run
-- cycle
-- walk
-- row
-
-in a COVID-safe way. You can do practically anything that involves moving yourself over a distance. You don't have to go outside to do this either, its meant to be an inclusive event.
+You can do practically anything that involves moving yourself over a distance. You don't have to go outside to do this either, it's meant to be an inclusive event.
 
 ## How do I earn a medal?
 
-Simple, send us some evidence that you covered some distance. You can do this by sending a:
+Simple, send us some evidence that you covered some distance (probably by email, working on that). You can do this by sending a:
 
 - screen shot of your strava activity
 - picture of your fitness watch
-
-anything that proves you covered some distance.
+- anything that proves you covered some distance.
 
 You get extra kudos if the distance is a palindrome, for example 5,005m!
 
