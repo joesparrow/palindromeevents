@@ -23,19 +23,19 @@ The other reason is that we believe exercise is good for our mental wellbeing, a
 
 So, this event is a celebration of a palindrome date, or it is a thinly veiled excuse to do some exercise to earn a medal.
 
-# Taking part
+# How do I take part?
 
-Interested? Read on.
+Interested? Cool! Read on.
 
 ## How much does it cost?
 
-Well, to cover the cost of making the medal and posting it to you it will cost you around £4 (yet to be finalised), with *no profit* for anyone.
+To cover the cost of making the medal and posting it to you it will cost you around £4 (yet to be finalised), with **no profit** for anyone.
 
-## How do I take part?
+## What do I do?
 
 Easy, on February 12th 2021, log some exercise in a way that can be evidenced.
 
-You can run, cycle, walk, row, do the samba, whatever, as long as it's in a a COVID-safe way.
+You can run, cycle, walk, row, do the samba, whatever, as long as it's in a **COVID-safe way**.
 
 You can do practically anything that involves moving yourself over a distance. You don't have to go outside to do this either, it's meant to be an inclusive event.
 
@@ -51,9 +51,9 @@ You get extra kudos if the distance is a palindrome, for example 5,005m!
 
 Note, kudos won't actually be included with the medal, I don't have any actual kudos, but they will be present in spirit.
 
-# Other stuff
+# Anything else?
 
-We are grateful you read this far down!
+We are grateful you read this far down! A few more details!
 
 ## Tell me about the medal
 
