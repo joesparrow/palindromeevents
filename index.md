@@ -23,6 +23,14 @@ The other reason is that we believe exercise is good for our mental wellbeing, a
 
 So, this event is a celebration of a palindrome date, or it is a thinly veiled excuse to do some exercise to earn a medal.
 
+# Taking part
+
+Interested? Read on.
+
+## How much does it cost?
+
+Well, to cover the cost of making the medal and posting it to you it will cost you around £4 (yet to be finalised), with *no profit* for anyone.
+
 ## How do I take part?
 
 Easy, on February 12th 2021, log some exercise in a way that can be evidenced.
@@ -31,15 +39,21 @@ You can run, cycle, walk, row, do the samba, whatever, as long as it's in a a CO
 
 You can do practically anything that involves moving yourself over a distance. You don't have to go outside to do this either, it's meant to be an inclusive event.
 
-## How do I earn a medal?
+## How do I get my medal?
 
-Simple, send us some evidence that you covered some distance (probably by email, working on that). You can do this by sending a:
+Simple, send us some money and some evidence that you covered some distance (probably by email, working on that) on 12th Feb. You can do this by sending a:
 
 - screen shot of your strava activity
 - picture of your fitness watch
 - anything that proves you covered some distance.
 
 You get extra kudos if the distance is a palindrome, for example 5,005m!
+
+Note, kudos won't actually be included with the medal, I don't have any actual kudos, but they will be present in spirit.
+
+# Other stuff
+
+We are grateful you read this far down!
 
 ## Tell me about the medal
 
@@ -50,15 +64,6 @@ Oh, it's beautiful. Exclusively designed by me and I am high unqualified to desi
 Each one is hand made. Seriously! I will be 3D printing them and then hand sewing the ribbon on.
 
 It's inspired by the Sator Square, a five world latin palindrome.
-
-## This isn't free though is it? What's the catch?
-
-Well, to cover the cost of the medal and posting it to you it will cost you around £4 (yet to be finalised), with no profit for anyone:
-
-- £0.80 for 3D printer maerial
-- £0.30 for ribbon
-- £1.00 for a padded envelope
-- £1.90 for the postage
 
 ## How many people are taking part?
 
