@@ -63,7 +63,7 @@ Oh, it's beautiful. Exclusively designed by me and I am high unqualified to desi
 
 Each one is hand made. Seriously! I will be 3D printing them and then hand sewing the ribbon on.
 
-It's inspired by the Sator Square, a five world latin palindrome.
+It's inspired by the Sator Square, a five word latin palindrome.
 
 ## How many people are taking part?
 
