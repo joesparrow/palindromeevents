@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+## 12th of February 2021 is Palindrome Day!
+Well, I think I might have invented that and it doesn't exist, so what am I talking about?
 
-You can use the [editor on GitHub](https://github.com/joesparrow/palindromeevents/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A palindrome is a series of numbers of letters that reads the same from right to left as it does from left to right, e.g. racecar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Palindrome dates in the UK are pretty rare because of the date format we use. In fact until recently the last palindrome date we had was on the 11th of November in the year 1111! Last year a cool thing happened, on the 2nd of Feb we had our first palindrome date in over 900 years - 02.02.2020.
 
-### Markdown
+This year we have a second palindrome date: 12.02.2021.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To celebrate this monumentous occurrence we are holding a virtual Palindrome Day event. Run, Cycle, Walk, cover a distance, and you can earn an exclusive Palindrome-themed medal!
 
-```markdown
-Syntax highlighted code block
+## Why are you doing this event?
 
-# Header 1
-## Header 2
-### Header 3
+Well, we love palindromes.
 
-- Bulleted
-- List
+The other reason is that we believe exercise is good for our mental wellbeing, and this last year or so as been pretty rubbish for people all over the world everywhere. It has often been difficult or impossible to exercise, so just when we need it, we can't do it. Once we get out of an exercise routine it is hard to get back on it. Motivation has been in short supply for lots of people.
 
-1. Numbered
-2. List
+So, this event is a celebration of a palindrome date, or it is a thinly veield excuse to do some exercise to earn a medal.
 
-**Bold** and _Italic_ and `Code` text
+## How do I take part?
 
-[Link](url) and ![Image](src)
-```
+Easy, on February 12th 2021, log some exercise in a way that can be evidenced.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can:
 
-### Jekyll Themes
+- run
+- cycle
+- walk
+- row
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joesparrow/palindromeevents/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+in a COVID-safe way. You can do practically anything that involves moving yourself over a distance. You don't have to go outside to do this either, its meant to be an inclusive event.
 
-### Support or Contact
+## How do I earn a medal?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Simple, send us some evidence that you covered some distance. You can do this by sending a:
+
+- screen shot of your strava activity
+- picture of your fitness watch
+
+anything that proves you covered some distance.
+
+You get extra kudos if the distance is a palindrome, for example 5,005m!
+
+## Tell me about the medal
+
+Oh, it's beautiful. Exclusively designed by me and I am high unqualified to design anything.
+
+![A picture of the medal](medal.JPG)
+
+Each one is hand made. Seriously! I will be 3D printing them and then hand sewing the ribbon on.
+
+It's inspired by the Sator Square, a five world latin palindrome.
+
+## This isn't free though is it? What's the catch?
+
+Well, to cover the cost of the medal and posting it to you it will cost you around £4 (yet to be finalised), with no profit for anyone:
+
+- £0.80 for 3D printer maerial
+- £0.30 for ribbon
+- £1.00 for a padded envelope
+- £1.90 for the postage
+
+## How many people are taking part?
+
+Oh this is an exclusive event, highly exclusive. In fact, apart from me I think one other person may participate. Between you and me though I think they might be humouring me...
+
+## Who's the we you keep talking about?
+
+Well, to be honest there's only me. Perhaps lockdown has sent me a little strange...
+
+## Where can I get more information?
+
+Good question.
+
+## Is this the worst website on the internet?
+
+Probably.
