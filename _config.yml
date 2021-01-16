@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Palindrome Day Event
 description: Celebrating Palindrome Day by being active.
+github:
+  is_project_page: false
