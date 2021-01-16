@@ -31,7 +31,11 @@ Interested? Cool! Read on.
 
 To cover the cost of making the medal and posting it to you it will cost you around £4 (yet to be finalised), with **no profit** for anyone.
 
-## What do I do?
+## How do I sign up?
+
+Drop an email to signmeup@palindromeday.co.uk ot let us know you intend to take part.
+
+## What do I do on the day?
 
 Easy, on February 12th 2021, log some exercise in a way that can be evidenced.
 
@@ -41,15 +45,19 @@ You can do practically anything that involves moving yourself over a distance. Y
 
 ## How do I get my medal?
 
-Simple, send us some money and some evidence that you covered some distance (probably by email, working on that) on 12th Feb. You can do this by sending a:
+Simple, send some evidence that you covered some distance on 12th Feb. You can do this by sending a:
 
 - screen shot of your strava activity
 - picture of your fitness watch
 - anything that proves you covered some distance.
 
-You get extra kudos if the distance is a palindrome, for example 5,005m!
+to finished@palindromeday.co.uk.
 
-Note, kudos won't actually be included with the medal, I don't have any actual kudos, but they will be present in spirit.
+Assuming your evidence passes our highly stringent examination uou will get a response requesting a postal address and letting you know how to pay for your medal.
+
+You get extra kudos if the distance submitted is a palindrome, for example 5,005m!
+
+Note, kudos won't actually be included with the medal, we don't have any actual kudos, but they will be present in spirit.
 
 # Anything else?
 
