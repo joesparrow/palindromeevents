@@ -71,7 +71,7 @@ Oh, it's beautiful. Exclusively designed by me and I am high unqualified to desi
 
 Each one is hand made. Seriously! I will be 3D printing them and then hand sewing the ribbon on.
 
-They are 60mm wide x 100mm tall attached to 80cm of 38mm wide red satin ribbon.
+They are 60mm wide x 100mm tall and made from the finest Polyethylene Terephthalate Glycol (PETG plastic, I don't own a metal printer). They are attached to 80cm of 38mm wide red satin ribbon.
 
 It's inspired by the Sator Square, a two dimensional, five word latin palindrome with four symmetries.
 
