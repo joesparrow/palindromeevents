@@ -33,7 +33,7 @@ To cover the cost of making the medal and posting it to you it will cost you aro
 
 ## How do I sign up?
 
-Drop an email to signmeup@palindromeday.co.uk ot let us know you intend to take part.
+Drop an email to **signmeup@palindromeday.co.uk** or let us know you intend to take part.
 
 ## What do I do on the day?
 
@@ -45,13 +45,11 @@ You can do practically anything that involves moving yourself over a distance. Y
 
 ## How do I get my medal?
 
-Simple, send some evidence that you covered some distance on 12th Feb. You can do this by sending a:
+Simple, send some evidence that you covered some distance on 12th Feb to **finished@palindromeday.co.uk**. You can do this by sending a:
 
 - screen shot of your strava activity
 - picture of your fitness watch
 - anything that proves you covered some distance.
-
-to finished@palindromeday.co.uk.
 
 Assuming your evidence passes our highly stringent examination uou will get a response requesting a postal address and letting you know how to pay for your medal.
 
@@ -85,7 +83,7 @@ Well, to be honest there's only me. Perhaps lockdown has sent me a little strang
 
 ## Where can I get more information?
 
-Good question. Email address to follow.
+Good question. Send an email to **info@palindromeday.co.uk**.
 
 ## Is this the worst website on the internet?
 
