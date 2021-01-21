@@ -63,7 +63,7 @@ We are grateful you read this far down! A few more details!
 
 ## Tell me about the medal
 
-Oh, it's beautiful. Exclusively designed by me and I am high unqualified to design anything.
+Oh, it's beautiful. Exclusively designed by me and I am highly unqualified to design anything.
 
 ![A picture of the medal](medal.JPG)
 
