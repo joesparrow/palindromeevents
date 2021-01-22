@@ -51,7 +51,7 @@ Simple, send some evidence that you covered some distance on 12th Feb to **finis
 - picture of your fitness watch
 - anything that proves you covered some distance.
 
-Assuming your evidence passes our highly stringent examination uou will get a response requesting a postal address and letting you know how to pay for your medal.
+Assuming your evidence passes our highly stringent examination you will get a response requesting a postal address and letting you know how to pay for your medal.
 
 You get extra kudos if the distance submitted is a palindrome, for example 5,005m!
 
