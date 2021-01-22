@@ -13,7 +13,7 @@ Last year a cool thing happened, on the 2nd of Feb we had our first palindrome d
 
 This year we have a second palindrome date: 12.02.2021.
 
-To celebrate this monumentous occurrence we are holding a virtual Palindrome Day event. Run, Cycle, Walk, cover a distance, and you can earn an exclusive Palindrome-themed medal!
+To celebrate this momentous occurrence we are holding a virtual Palindrome Day event. Run, Cycle, Walk, cover a distance, and you can earn an exclusive Palindrome-themed medal!
 
 ## Why are you doing this event?
 
@@ -69,9 +69,9 @@ Oh, it's beautiful. Exclusively designed by me and I am highly unqualified to de
 
 Each one is hand made. Seriously! I will be 3D printing them and then hand sewing the ribbon on.
 
-They are 60mm wide x 100mm tall and made from the finest Polyethylene Terephthalate Glycol (PETG plastic, I don't own a metal printer). They are attached to 80cm of 38mm wide red satin ribbon.
+They are 60mm wide x 100mm tall and made from the finest Polylactic Acid (PLA, a plastic, I don't own a metal printer). They are attached to 80cm of 38mm wide red satin ribbon.
 
-It's inspired by the Sator Square, a two dimensional, five word latin palindrome with four symmetries.
+It's inspired by the Sator Square, a two dimensional, five word Latin palindrome with four symmetries.
 
 ## How many people are taking part?
 
