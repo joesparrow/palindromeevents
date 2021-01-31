@@ -7,9 +7,9 @@ Well, I think I might have invented that and it doesn't exist, so what am I talk
 
 A palindrome is a series of numbers or letters that reads the same from right to left as it does from left to right, e.g. racecar.
 
-Palindrome dates in the UK are pretty rare because of the date format we use. In fact until recently the last palindrome date we had was on the 11th of November in the year 1111!
+Palindrome dates in the UK are pretty rare because of the date format we use. In fact until recently the last palindrome date we had was on the 11th of November in the year 1111! For date geeks, note I am using the date format DD-MM-YYYY. This is the litte-endian format, the official long date format used by the United Nations for printed documentation, but not ISO 8601 compatible.
 
-Last year a cool thing happened, on the 2nd of Feb we had our first palindrome date in over 900 years - 02.02.2020.
+Anyway, last year a cool thing happened, on the 2nd of Feb we had our first palindrome date in over 900 years - 02.02.2020.
 
 This year we have a second palindrome date: 12.02.2021.
 
