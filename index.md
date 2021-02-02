@@ -88,3 +88,9 @@ Good question. Send an email to **info@palindromeday.co.uk**.
 ## Is this the worst website on the internet?
 
 Probably.
+
+## Is there anything else special about this February?
+
+Why yes there is! Every six to ten years we get a rectaangular February, which is where the first day of February, a month with 28 days, falls on a Monday (the first day of the week according to ISO 8601).
+
+![A picture of the month of February in the year 2021 which appears to make a rectangle neatly lined up with the 1st of February on a Monday.](calendar.JPG)
