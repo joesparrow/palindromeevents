@@ -65,7 +65,8 @@ We are grateful you read this far down! A few more details!
 
 Oh, it's beautiful. Exclusively designed by me and I am highly unqualified to design anything.
 
-![A picture of the medal](medal.JPG)
+![A picture of a medal being printed by a 3D printer](printing.JPG)
+![A picture of a medal](medal.JPG)
 
 Each one is hand made. Seriously! I will be 3D printing them and then hand sewing the ribbon on.
 
