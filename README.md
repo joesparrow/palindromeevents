@@ -29,8 +29,14 @@ Run:
     bundle add webrick
     bundle add jekyll --version '~>3.9.0'
     bundle install
-    
+
 # Develop
+
+Clone:
+
+    git clone git@github.com:joesparrow/mordorfunrun
+    cd mordorfunrun
+    bundle install
 
 Run jekyll with:
 
