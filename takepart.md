@@ -22,7 +22,7 @@ You can do practically anything that involves moving yourself over a distance. Y
 
 Simple, send some evidence that you covered some distance on the day to **finished@palindromeday.co.uk**. You can do this by sending a:
 
-- screen shot of your strava activity
+- screen shot of your Strava activity
 - picture of your fitness watch
 - anything that proves you covered some distance.
 
