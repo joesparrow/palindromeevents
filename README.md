@@ -34,8 +34,8 @@ Run:
 
 Clone:
 
-    git clone git@github.com:joesparrow/mordorfunrun
-    cd mordorfunrun
+    git clone git@github.com:joesparrow/palindromeevents
+    cd palindromeevents
     bundle install
 
 Run jekyll with:
