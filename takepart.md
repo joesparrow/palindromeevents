@@ -4,7 +4,7 @@ Interested? Cool! Read on.
 
 ## How much does it cost?
 
-To cover the cost of making the medal and posting it to you it will cost you around £4 (yet to be finalised), with **no profit** for anyone.
+To cover the cost of making the medal and posting it to you it will cost you *a donation to a charity of your choice*.
 
 ## How do I sign up?
 
