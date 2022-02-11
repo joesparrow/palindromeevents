@@ -2,7 +2,7 @@
 
 Oh, they are beautiful. Exclusively designed by me and I am highly unqualified to design anything.
 
-Each one is hand made. Seriously! I will be 3D printing them and then hand sewing the ribbon on.
+Each one is hand made. Seriously! I will be 3D printing them and then gluing the ribbon on.
 
 ![A picture of a medal being printed by a 3D printer](printing.JPG)
 ![A picture of a medal](medal3.JPG)

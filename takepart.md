@@ -8,11 +8,11 @@ To cover the cost of making the medal and posting it to you it will cost you *a 
 
 ## How do I sign up?
 
-Drop an email to **signmeup@palindromeday.co.uk** or let us know you intend to take part.
+Drop an email to **signmeup@palindromeday.co.uk**.
 
 ## What do I do on the day?
 
-Easy, on 2nd December 2021, log some exercise in a way that can be evidenced.
+Easy, some time between the weekend before 22nd February 2022 and the weekend after, log some exercise in a way that can be evidenced.
 
 You can run, cycle, walk, row, do the samba, whatever, as long as it's in a **COVID-safe way**.
 
@@ -26,7 +26,7 @@ Simple, send some evidence that you covered some distance on the day to **finish
 - picture of your fitness watch
 - anything that proves you covered some distance.
 
-Assuming your evidence passes our highly stringent examination you will get a response requesting a postal address and letting you know how to pay for your medal.
+Assuming your evidence passes our highly stringent examination you will get a response requesting a postal address for your medal.
 
 You get extra kudos if the distance submitted is a palindrome, for example 5,005m!
 
